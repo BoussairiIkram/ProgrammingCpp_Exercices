@@ -1,7 +1,7 @@
 /*
 Creer les deux fonctions variadique GetMoyenne(int, ...) et GetEcartType(float, int , ...) qui
-doivent renvoyer respectivement la moyenne et l'écart type de 1, 2, .. ou n valeurs de
-nombre entier. L"écart type des nombres r1 , ..., rN est par :  
+doivent renvoyer respectivement la moyenne et l'Ã©cart type de 1, 2, .. ou n valeurs de
+nombre entier. L'Ã©cart type des nombres r1 , ..., rN est donnÃ© parÂ :  
        sqrt( 1/N * ( (r1-moy)^2 + (r2-moy)^2 +...(rN-moy)^2 )
 */
 #include<cmath>
